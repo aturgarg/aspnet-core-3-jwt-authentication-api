@@ -40,3 +40,7 @@ typings
 # .NET compiled files
 bin
 obj
+/.vs/dotnet-jwt-auth-api/v16/.suo
+/WebApi.csproj.user
+/.vs/dotnet-jwt-auth-api/config/applicationhost.config
+/.vs/WebApi/config/applicationhost.config
